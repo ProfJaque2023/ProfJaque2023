@@ -1,5 +1,5 @@
-- 👋 Ola, sou a jaque
-- 👀 Professora da escola estadual
+- 👋 Ola, sou a Jaque
+- 👀 Professora da Escola Estadual
 - 🌱 Leciono as disciplina: tecnologia
 
 
